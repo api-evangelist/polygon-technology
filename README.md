@@ -64,5 +64,138 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Polygon Labs is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://polygon.technology
+Polygon Labs builds the Open Money Stack, a suite of APIs enabling programmable stablecoin payments, cross‑chain transfers, wallet services, and on‑chain settlement. The platform offers pay‑ins, payouts, virtual accounts, orchestration, and developer tools for global money movement, serving enterprises and fintechs worldwide.
+
+**Areas:** Fintech · Payments · Blockchain · Stablecoins · Developer Platform
+
+## Polygon Labs on APIs.io
+
+Everything profiled for Polygon Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/polygon-technology/](https://apis.io/providers/polygon-technology/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Polygon Labs Auth API](https://apis.io/apis/polygon-technology/polygon-technology-auth-api/) — The Auth API from Polygon Labs — 2 operation(s) for auth.
+- [Polygon Labs Cash Ins API](https://apis.io/apis/polygon-technology/polygon-technology-cash-ins-api/) — The Cash Ins API from Polygon Labs — 2 operation(s) for cash ins.
+- [Polygon Labs Counterparties API](https://apis.io/apis/polygon-technology/polygon-technology-counterparties-api/) — The Counterparties API from Polygon Labs — 1 operation(s) for counterparties.
+- [Polygon Labs Customers API](https://apis.io/apis/polygon-technology/polygon-technology-customers-api/) — The Customers API from Polygon Labs — 1 operation(s) for customers.
+- [Polygon Labs Deposit Addresses API](https://apis.io/apis/polygon-technology/polygon-technology-deposit-addresses-api/) — The Deposit Addresses API from Polygon Labs — 2 operation(s) for deposit addresses.
+- [Polygon Labs External Accounts API](https://apis.io/apis/polygon-technology/polygon-technology-external-accounts-api/) — The External Accounts API from Polygon Labs — 2 operation(s) for external accounts.
+- [Polygon Labs Net Info API](https://apis.io/apis/polygon-technology/polygon-technology-net-info-api/) — The Net Info API from Polygon Labs — 1 operation(s) for net info.
+- [Polygon Labs Networks API](https://apis.io/apis/polygon-technology/polygon-technology-networks-api/) — The Networks API from Polygon Labs — 1 operation(s) for networks.
+- [Polygon Labs Polygon Labs API](https://apis.io/apis/polygon-technology/polygon-technology-polygon-labs-api-api/) — The Polygon Labs API API from Polygon Labs — 1 operation(s) for polygon labs api.
+- [Polygon Labs Quotes API](https://apis.io/apis/polygon-technology/polygon-technology-quotes-api/) — The Quotes API from Polygon Labs — 1 operation(s) for quotes.
+- [Polygon Labs Status API](https://apis.io/apis/polygon-technology/polygon-technology-status-api/) — The Status API from Polygon Labs — 1 operation(s) for status.
+- [Polygon Labs Transactions API](https://apis.io/apis/polygon-technology/polygon-technology-transactions-api/) — The Transactions API from Polygon Labs — 2 operation(s) for transactions.
+- [Polygon Labs Virtual Accounts API](https://apis.io/apis/polygon-technology/polygon-technology-virtual-accounts-api/) — The Virtual Accounts API from Polygon Labs — 3 operation(s) for virtual accounts.
+- [Polygon Labs Wallets API](https://apis.io/apis/polygon-technology/polygon-technology-wallets-api/) — The Wallets API from Polygon Labs — 1 operation(s) for wallets.
+- [Polygon Labs Webhooks API](https://apis.io/apis/polygon-technology/polygon-technology-webhooks-api/) — The Webhooks API from Polygon Labs — 5 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Polygon Technology Webhooks](https://apis.io/asyncapis/polygon-technology/polygon-technology-webhooks/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostCashInsRequest](https://apis.io/schemas/polygon-technology/polygon-technology-post-cash-ins-request/)
+- [PostCounterpartiesRequest](https://apis.io/schemas/polygon-technology/polygon-technology-post-counterparties-request/)
+- [PostDepositAddressesRequest](https://apis.io/schemas/polygon-technology/polygon-technology-post-deposit-addresses-request/)
+- [PostExternalAccountsCardsRequest](https://apis.io/schemas/polygon-technology/polygon-technology-post-external-accounts-cards-request/)
+- [PostExternalAccountsRequest](https://apis.io/schemas/polygon-technology/polygon-technology-post-external-accounts-request/)
+- [PostVirtualAccountsRequest](https://apis.io/schemas/polygon-technology/polygon-technology-post-virtual-accounts-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Polygon Technology Context](https://apis.io/jsonld/polygon-technology/polygon-technology-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Polygon Labs API Rules](https://apis.io/rules/polygon-technology/polygon-technology-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Polygon Technology Domain Security](https://apis.io/security/polygon-technology/polygon-technology-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://polygon.technology)
+- [Documentation](https://docs.polygon.technology)
+- [Getting started](https://docs.polygon.technology/payments/get-started.md)
+- [API reference](https://docs.polygon.technology/api-reference/overview)
+- [Sign up](https://polygon.technology/get-access)
+- [Support](https://support.polygon.technology/support/home)
+- [Blog](https://polygon.technology/blog)
+- [Terms of service](https://polygon.technology/terms-of-use)
+- [Privacy policy](https://polygon.technology/privacy-policy)
+- [GitHub](https://github.com/0xPolygon)
+- [Status](https://status.polygon.technology/)
+
+## API Evangelist rating
+
+**Kin Score 44.2** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 33.2 |
+| Contract governance | 35.6 |
+| Operational transparency | 44.7 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 28.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/polygon-technology/](https://apis.io/providers/polygon-technology/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Polygon Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/polygon-technology/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
